@@ -1,2 +1,2 @@
 # sukhraj-website
-repo for my personal site
+repo for my personal site.
